@@ -1,0 +1,4 @@
+https://ant.design/components/notification-cn/
+https://mobile.ant.design/kitchen-sink/?lang=zh-CN
+https://mobile.ant.design/components/drawer-cn/
+yarn add react-router@3 redux react-redux redux-promise antd-mobile babel-plugin-import fetch-jsonp qs rc-form
